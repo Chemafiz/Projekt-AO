@@ -4,5 +4,5 @@
 [Trenowanie modelów CNN oraz z augmentacją danych](https://github.com/Chemafiz/Projekt-AO/blob/main/trained_models/model_NN.ipynb)
 
 # Uruchomienie GUI
-Polecane IDE: PyCharm
+Polecane IDE: PyCharm  
 Należy zainstalować pakiety pythona: cv2, pickle, NumPy, Pygame, Tensorflow
