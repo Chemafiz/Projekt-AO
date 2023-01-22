@@ -5,6 +5,8 @@
 
 # Uruchomienie GUI
 Polecane IDE: PyCharm  
-Należy zainstalować pakiety pythona: cv2, pickle, NumPy, Pygame, Tensorflow  
-Należy wypakować plik trained_models/supervised_model.zip w tym samym katalogu
+1) Pobranie repozytorium  
+2) Wypakowanie pliku trained_models/supervised_model.zip do tego samego katalogu  
+3) Zainstalowanie pakietów Pythona: cv2, pickle, NumPy, Pygame, Tensorflow  
+
 
