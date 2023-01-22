@@ -7,6 +7,6 @@
 Polecane IDE: PyCharm  
 1) Pobranie repozytorium  
 2) Wypakowanie pliku trained_models/supervised_model.zip do tego samego katalogu  
-3) Zainstalowanie pakietów Pythona: cv2, pickle, NumPy, Pygame, Tensorflow  
+3) Zainstalowanie pakietów Pythona: cv2, pickle, NumPy, Pygame, Tensorflow, Scikit-learn
 
 
