@@ -1,1 +1,2 @@
-# Projekt-Analiza-Obraz-w
+# Projekt Analiza Obrazów
+dokumentacja
