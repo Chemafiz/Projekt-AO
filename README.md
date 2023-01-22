@@ -5,4 +5,6 @@
 
 # Uruchomienie GUI
 Polecane IDE: PyCharm  
-Należy zainstalować pakiety pythona: cv2, pickle, NumPy, Pygame, Tensorflow
+Należy zainstalować pakiety pythona: cv2, pickle, NumPy, Pygame, Tensorflow  
+Należy wypakować plik trained_models/supervides_model.zip w tym samym katalogu
+
